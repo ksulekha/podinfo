@@ -4,7 +4,3 @@ resources:
 - service.yml
 - deployment.yml
 namespace: nginx
-replicas:
-- name: nginx
-  count: 3
-
