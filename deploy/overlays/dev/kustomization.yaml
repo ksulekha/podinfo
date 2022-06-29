@@ -3,7 +3,3 @@ kind: Kustomization
 namespace: nginx
 resources:
 - ../../base
-replicas:
-- cont: 1
-  name: nginx
-
