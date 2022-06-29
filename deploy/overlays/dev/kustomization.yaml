@@ -4,5 +4,5 @@ namespace: nginx
 resources:
 - ../../base
 replicas:
-- count: 1
+- count: 4
   name: nginx
